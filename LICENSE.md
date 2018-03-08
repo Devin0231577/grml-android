@@ -2,9 +2,8 @@ WTFPL License
 
 Copyleft (Ͻ) 2018 Nefarious Laboratories
 
-Permission is hereby granted to use, copy, modify, merge, publish, distribute,  
-sublicense, and/or sell copies of the included software, subject to the  
-following conditions:
+Permission is hereby granted to use, copy, modify, merge, publish, distribute, sublicense,  
+and/or sell copies of the included software, subject to the following conditions:
 
 1. Just do whatever the fuck you want.
 
