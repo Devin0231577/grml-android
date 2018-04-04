@@ -17,7 +17,7 @@ Next mount the image file you created to /mnt by issuing the following command:
 
 ## Apktool
 
-To examine an apk, use `apktool d [appname].apk` and to repack an apk, use `apktool b [appname] -o [new_appname].apk`. To run a rebuilt application, you must re-sign the application. See [Android Documentation](https://developer.android.com/studio/publish/app-signing.html#signing-manually) for details.
+To examine an apk, use `apktool d [appname].apk` and to repack an apk, use `apktool b [appname] -o [new_appname].apk`. To run a rebuilt application, you must re-sign the application. See [Android](https://developer.android.com/studio/publish/app-signing.html#signing-manually) [Documentation](https://source.android.com/devices/tech/ota/sign_builds) for details.
 
 ## Repacking
 
